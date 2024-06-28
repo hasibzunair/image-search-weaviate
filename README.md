@@ -1,2 +1,3 @@
-# image-search-weaviate
-Leverage embeddings with vector databases for fast image search and retrieval.
+# Leveraging vector databases with embeddings for fast image search and retrieval
+
+Materials for article.
